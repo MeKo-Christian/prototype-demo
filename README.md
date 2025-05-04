@@ -4,6 +4,12 @@ This is a simple demo coded with the [prototype](https://github.com/gonutz/proto
 
 ![screenshot](https://raw.github.com/meko-christian/prototype-demo/main/screenshot.jpg)
 
+## Try it out
+
+👉 **[Run the demo in your browser](https://meko-christian.github.io/prototype-demo/)**
+
+> Requires a modern browser with WebAssembly support (most do).
+
 ## 🚀 Building
 
 This project uses [just](https://github.com/casey/just) as a task runner. You can install it via:
