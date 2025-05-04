@@ -1,2 +1,7 @@
 # air files
 tmp
+
+# bin files
+demo
+demo.wasm
+wasm_exec.js
